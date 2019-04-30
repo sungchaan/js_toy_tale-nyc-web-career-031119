@@ -77,7 +77,7 @@ document.addEventListener('click', e => {
       })
     })
       console.log(e.target.previousElementSibling.innerText)
-      showToys()
+      // showToys()
   }
 })
 
